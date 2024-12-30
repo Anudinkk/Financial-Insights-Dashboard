@@ -2,6 +2,11 @@
 
 This dashboard provides a comprehensive analysis of sales and profit performance across various dimensions, helping stakeholders make informed decisions. Below is the narrative derived from the visuals:
 
+![Report-1](https://github.com/user-attachments/assets/b736ec17-7219-4cff-96ac-0098d8598f81)
+
+![Report-2](https://github.com/user-attachments/assets/fe5bc42b-24d7-46f5-b91c-ce920c19a979)
+
+
 ---
 
 ## Key Metrics at a Glance
