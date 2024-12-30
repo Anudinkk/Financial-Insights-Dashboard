@@ -36,8 +36,8 @@ The pie chart reveals segment-wise profit distribution:
 ### 3. Monthly Trends
 The line chart indicates monthly profit trends:
 
-- Profit peaks in **March** and **September**, suggesting seasonal demand.
-- A notable dip is observed in **July**.
+- Profit peaks in **September** and **December**, suggesting seasonal demand.
+- A notable dip is observed in **July** and **August**.
 
 ### 4. Regional Sales Performance
 The top regions include:
